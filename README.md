@@ -1,6 +1,8 @@
 # IBM-Project-50084-1660892015
 Inventory Managment System for Retailers
+
 Team ID : PNT2022TMID34246
+
 Team Size : 4
 
 Team Leader :	Heerttika S
